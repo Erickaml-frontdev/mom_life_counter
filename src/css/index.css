@@ -20,6 +20,7 @@ main{
     padding: 30px;
     border-radius: 8px;
     flex-wrap: wrap;
+    box-shadow: 0 0 5px rgba(30, 30, 30, 0.306);
 }
 #title, #recap-msg{
     font-family: "Borel", cursive;
